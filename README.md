@@ -1,7 +1,10 @@
 # Deep Reinforcement Learning: Building Games from Scratch
 
-**Author:** Amjad Yousef Majid <br>
-**Contact:** amjad.y.majid@gmail.com
+Testing how all this works
+
+Working over the project for better understanding, for more contact me @ eishaankhatri@gmail.com
+
+original author: amjad.y.majid@gmail.com
 
 <img style="display:block; margin-left:auto; margin-right:auto" src="images/AI_games.gif"> <br />
 
