@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning: Building Games from Scratch
 
-Testing how all this works
+Testing and Learning how all this works
 
 Working over the project for better understanding, for more contact me @ eishaankhatri@gmail.com
 
