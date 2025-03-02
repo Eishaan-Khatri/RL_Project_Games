@@ -5,6 +5,7 @@ Testing how all this works
 Working over the project for better understanding, for more contact me @ eishaankhatri@gmail.com
 
 original author: amjad.y.majid@gmail.com
+*he too probably copied it from somewhere because all i saw was dir name change
 
 <img style="display:block; margin-left:auto; margin-right:auto" src="images/AI_games.gif"> <br />
 
